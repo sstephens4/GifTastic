@@ -1,9 +1,16 @@
 body {
+    background: url("background.jpg");
+  }
+  #gifs {
+    margin-left: 30px;
+    
+  }
 
-}
+  p {
+    margin-top: 5px;
+  }
 
-button {
-margin: 10px;
-
-}
+  img {
+    border: solid blue 3px;
+  }
     

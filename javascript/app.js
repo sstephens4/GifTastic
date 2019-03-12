@@ -77,6 +77,7 @@
 		}
 	}
 
+	console.log(changeState);
 	$(document).on("click", ".gif", changeState);
 
 	
